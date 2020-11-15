@@ -14,7 +14,6 @@
 </head>
 <body>
 <img img align="right" src="https://github.com/dsalisbury1141/dsalisbury1141/blob/main/avatar.jpg" width="250" alt="current photo">
-  <h1>Dawn Salisbury</h1>
 
   <img align="left|right|middle|top|bottom">
 
