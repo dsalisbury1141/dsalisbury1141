@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on... <h3> Updating my career ready status</h3>
+- 🔭 I’m currently working on... <p><strong> Updating my career ready status<strong></p>
 - 🌱 I’m currently learning ... <h3> Diving deeper into coding, learning never STOPS! </h3>
 - 👯 I’m looking to collaborate on ... <h3> Any beginner coding project </h3>
 - ⚡ Fun fact: ... <h3> Creativity is the seed that continues to grow as you code</h3>
