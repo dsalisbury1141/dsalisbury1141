@@ -77,4 +77,3 @@ https://dsalisbury1141.github.io/GeoMapping-Earthquakes/
 </body>
 
 </html>
--->
