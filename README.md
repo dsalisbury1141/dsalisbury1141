@@ -20,10 +20,9 @@
   <p>Accomplished technology services leader with extensive experience in both technology and financial operations, driven by the love of research and data analytics, modeling, forecasting data, creating visualizations used to develop, and improve technology tools. Recognized as proactive, resourceful, and persistent problem-solver. Excellent communicator with effective client relationship building skills, driving results, meeting business objectives and improving client satisfaction. Graduate of Univerity Central Florida earning a certificate in Data Analytics & Web visualizations, learning many new tools for data analytics to extract data across many platforms, create a productive strategy with improved decision making to help plan the future and gets results.
 </p>
   
-<p>- 📫 How to reach me:<strong>Email:</strong> <a href="#">dmsalisbury1141@gmail.com</a></p>
-    - ⚡ MyGitHub: ...<li><strong>Github:</strong> <a href="#">https://github.com/dsalisbury1141</a></li>
-  <li><strong>Resume:</strong> <a href="https://docs.google.com/document/d/1hDEv7Sws4b3dcoS3UGpy_E8QpyB3bXhqiMDtimcnUOE/edit?usp=sharing">Work History and Experience</a></li>
-  </ul>
+<p>- 📫 <strong>Email:</strong> <a href="#">dmsalisbury1141@gmail.com</a></p>
+<p>- ⚡ <strong>Github:</strong> <a href="#">https://github.com/dsalisbury1141</a></p>
+<p>- ✔  <strong>Resume:</strong> <a href="https://docs.google.com/document/d/1hDEv7Sws4b3dcoS3UGpy_E8QpyB3bXhqiMDtimcnUOE/edit?usp=sharing">Work History and Experience</a></p>
   <head>
   
    </head>
