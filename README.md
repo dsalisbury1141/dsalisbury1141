@@ -2,11 +2,10 @@
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on... <h3> Updating my career ready status</h3>
+- 🌱 I’m currently learning ... <h3> Diving deeper into coding, learning never STOPS! </h3>
+- 👯 I’m looking to collaborate on ... <h3> Any beginner coding project </h3>
+- ⚡ Fun fact: ... <h3> Creativity is the seed that continues to grow as you code</h3>
 
 <!DOCTYPE html>
 <html lang="en-us">
@@ -32,9 +31,22 @@
   
    </head>
    
-  
-   <h1> Projects Project 2020</h1>
-<h3>The Avocado</h3> 
+<h2>Technical Skills</h2>
+<li>Tools: VS Code, JupyterLab, Anaconda, Git Bash, GitHub, Tableau, Jira, Microsoft Project, Visio, Excel, AI, web scraping, Hadoop</li>
+<li>Databases: Postgres/ pgAdmin, MongoDB, Extract-Transform-Load (ETL)</li>
+<li>Programming: Python3, NumPy, Pandas, Matplotlib, API interactions, JavaScript, D3.js, VBA, HTML, CSS, Plotly, Geomapping, Machine Learning, Big Data</li>
+
+
+<h1> Current Projects 2020</h1>
+
+<h3>HappHomeMortgage Company</h3>
+
+https://dsalisbury1141.github.io/Predicting-Loan-Eligibility-Project/
+<li>This project based around machine learning, building a simulation for how machine learning can be used in the real world</li>
+<li>Tools and techniques:Python Pandas, Matplotlib/NumPy/Seaborne, HTML/CSS/Bootstap, JavaScrip/D3.js, Machine learning using SKLearn, JupyterLab/VSCode</li>
+<li> This project will be improved to also showcase the use of actual loan preapprover with machine learning and the predict model that was created for this project rather than a simulation. Updates soon to follow</li>
+
+<h3>The Avocado Project</h3> 
 
  https://github.com/dsalisbury1141/Project-Avocado
   <li>This project based on the import-export and the consumption of avocado in the US</li>
@@ -51,10 +63,6 @@
  <li>Tools and techniques: API, CSV data, Visual Studio Code, JavaScript</li>
 
 
-<h2>Technical Skills</h2>
-<li>Tools: VS Code, JupyterLab, Anaconda, Git Bash, GitHub, Tableau, Jira, Microsoft Project, Visio, Excel, AI, web scraping, Hadoop</li>
-<li>Databases: Postgres/ pgAdmin, MongoDB, Extract-Transform-Load (ETL)</li>
-<li>Programming: Python3, NumPy, Pandas, Matplotlib, API interactions, JavaScript, D3.js, VBA, HTML, CSS, Plotly, Geomapping, Machine Learning, Big Data</li>
 
   <table>
      
