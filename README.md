@@ -3,9 +3,9 @@
 
 
 <p>- 🔭 I’m currently working on... <strong>Updating my career ready status<strong></p>
-<p>- 🌱 I’m currently learning ... <strong>Diving deeper into coding, learning never STOPS! </p>
-<p>- 👯 I’m looking to collaborate on ... <strong> Any beginner coding project </p>
-<p>- ⚡ Fun fact: ... <strong> Creativity is the seed that continues to grow as you code</p>
+<p>- 🌱 I’m currently learning ... <strong>Diving deeper into coding, learning never STOPS!<strong> </p>
+<p>- 👯 I’m looking to collaborate on ... <strong> Any beginner coding project<strong> </p>
+<p>- ⚡ Fun fact: ... <strong> Creativity is the seed that continues to grow as you code<strong></p>
 
 <!DOCTYPE html>
 <html lang="en-us">
