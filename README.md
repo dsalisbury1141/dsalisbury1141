@@ -2,17 +2,16 @@
 
 
 
-<p><strong> - 🔭 I’m currently working on... Updating my career ready status<strong></p>
-- 🌱 I’m currently learning ... <h3> Diving deeper into coding, learning never STOPS! </h3>
-- 👯 I’m looking to collaborate on ... <h3> Any beginner coding project </h3>
-- ⚡ Fun fact: ... <h3> Creativity is the seed that continues to grow as you code</h3>
+<p>- 🔭 I’m currently working on... <strong>Updating my career ready status<strong></p>
+<p>- 🌱 I’m currently learning ... <strong>Diving deeper into coding, learning never STOPS! </p>
+<p>- 👯 I’m looking to collaborate on ... <strong> Any beginner coding project </p>
+<p>- ⚡ Fun fact: ... <strong> Creativity is the seed that continues to grow as you code</p>
 
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
   <meta charset="UTF-8">
 </head>
-
 <body>
 <img img align="right" src="https://github.com/dsalisbury1141/dsalisbury1141/blob/main/avatar.jpg" width="250" alt="current photo">
   <h1>Dawn Salisbury</h1>
