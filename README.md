@@ -42,12 +42,6 @@ https://dsalisbury1141.github.io/Predicting-Loan-Eligibility-Project/
 <li>Tools and techniques:Python Pandas, Matplotlib/NumPy/Seaborne, HTML/CSS/Bootstap, JavaScrip/D3.js, Machine learning using SKLearn, JupyterLab/VSCode</li>
 <li> This project will be improved to also showcase the use of actual loan preapprover with machine learning and the predict model that was created for this project rather than a simulation. Updates soon to follow</li>
 
-<h3>The Avocado Project</h3> 
-
- https://github.com/dsalisbury1141/Project-Avocado
-  <li>This project based on the import-export and the consumption of avocado in the US</li>
-  <li>Tools and techniques:ETL using API, JupyterLab, Python3, with Pandas, NumPy, Matplotlib for visualizations</h5> 
-
 <h3>ETL-Project</h3> 
  http://myprojectrepo.com/				
  <li>This project was based on the high occurrences of earthquakes in Japan and Turkey,</li>
@@ -58,6 +52,11 @@ https://dsalisbury1141.github.io/Predicting-Loan-Eligibility-Project/
  <li>This project was based on Belly Button Biodiversity, using an interactive dashboard to show results</li>
  <li>Tools and techniques: API, CSV data, Visual Studio Code, JavaScript</li>
 
+<h3>The Avocado Project</h3> 
+
+ https://github.com/dsalisbury1141/Project-Avocado
+  <li>This project based on the import-export and the consumption of avocado in the US</li>
+  <li>Tools and techniques:ETL using API, JupyterLab, Python3, with Pandas, NumPy, Matplotlib for visualizations</h5> 
 
 
   <table>
