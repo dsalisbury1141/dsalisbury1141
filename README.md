@@ -36,7 +36,7 @@
 
 <h3>HappHomeMortgage Company</h3>
 
-https://dsalisbury1141.github.io/Predicting-Loan-Eligibility-Project/
+https://dsalisbury1141.github.io/Predicting-Loan-Eligibility-Machine-Learning
 <li>This project based around machine learning, building a simulation for how machine learning can be used in the real world</li>
 <li>Tools and techniques:Python Pandas, Matplotlib/NumPy/Seaborne, HTML/CSS/Bootstap, JavaScrip/D3.js, Machine learning using SKLearn, JupyterLab/VSCode</li>
 <li> This project will be improved to also showcase the use of actual loan preapprover with machine learning and the predict model that was created for this project rather than a simulation. Updates soon to follow</li>
