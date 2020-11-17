@@ -60,7 +60,7 @@ https://dsalisbury1141.github.io/GeoMapping-Earthquakes/
  <li>Tools and techniques: ETL using API, JupyterLab, Python3, with Pandas, SQLite, remote deployment</li>
 
 <h3>The Avocado Project</h3> 
- https://github.com/dsalisbury1141/Project-Avocado
+ https://github.com/dsalisbury1141/The-Avocado-Project
   <li>This project based on the import-export and the consumption of avocado in the US</li>
   <li>Tools and techniques:ETL csv, Python JupyterLab, Pandas, NumPy, Matplotlib for visualizations</h5> 
 
