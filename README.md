@@ -19,9 +19,9 @@
   <a target="_blank" href="https://api.badgr.io/public/assertions/ENwqKApTRdK6jMywt5kAPQ?identity__email=dmsalisbury1141%40gmail.com">
          <img alt="UCF" src="https://github.com/dsalisbury1141/dsalisbury1141/blob/main/Images/ucfbadgr.PNG"width=120" height="120">
       </a>
- ---                                                                                                                                                                               <a target="_blank"href="href="https://api.badgr.io/public/assertions/ENwqKApTRdK6jMywt5kAPQ?identity__email=dmsalisbury1141%40gmail.com">UCF Badgr details                        
+                                                                                                                                                                                 <a target="_blank"href="href="https://api.badgr.io/public/assertions/ENwqKApTRdK6jMywt5kAPQ?identity__email=dmsalisbury1141%40gmail.com">UCF Badgr details...                        
 </a>
----
+
 <p>- 📫 <strong>Email:</strong> <a href="#">dmsalisbury1141@gmail.com</a></p>
 <p>- ⚡ <strong>Github:</strong> <a href="#">https://github.com/dsalisbury1141</a></p>
 <p>- ✔  <strong>Resume:</strong> <a href="https://docs.google.com/document/d/1hDEv7Sws4b3dcoS3UGpy_E8QpyB3bXhqiMDtimcnUOE/edit?usp=sharing">Work History and Experience</a></p>
