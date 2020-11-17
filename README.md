@@ -35,7 +35,7 @@
 <li>Programming: Python3, NumPy, Pandas, Matplotlib, API interactions, JavaScript, D3.js, VBA, HTML, CSS, Plotly, Geomapping, Machine Learning, Big Data</li>
 
 
-<h2> Current Projects 2020</h2>
+<h2> Recent Projects 2020</h2>
 
 <h3>HappHomeMortgage Company</h3>
 
