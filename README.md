@@ -19,7 +19,7 @@
   <a target="_blank" href="https://api.badgr.io/public/assertions/ENwqKApTRdK6jMywt5kAPQ?identity__email=dmsalisbury1141%40gmail.com">
          <img alt="UCF" src="https://github.com/dsalisbury1141/dsalisbury1141/blob/main/Images/ucfbadgr.PNG"width=120" height="120">
       </a>
-<a target="_blank"href="href="https://api.badgr.io/public/assertions/ENwqKApTRdK6jMywt5kAPQ?identity__email=dmsalisbury1141%40gmail.com">UCF Badgr details                      
+<a target="_blank"href="https://api.badgr.io/public/assertions/ENwqKApTRdK6jMywt5kAPQ?identity__email=dmsalisbury1141%40gmail.com">UCF Badgr details                      
 </a>
 <p>      </p>
 <p>- 📫 <strong>Email:</strong> <a href="#">dmsalisbury1141@gmail.com</a></p>
