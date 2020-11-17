@@ -17,7 +17,7 @@
   <p>Accomplished technology services leader with extensive experience in both technology and financial operations, driven by the love of research and data analytics, modeling, forecasting data, creating visualizations used to develop, and improve technology tools. Recognized as proactive, resourceful, and persistent problem-solver. Excellent communicator with effective client relationship building skills, driving results, meeting business objectives and improving client satisfaction. Graduate of Univerity Central Florida earning a certificate in Data Analytics & Web visualizations, learning many new tools for data analytics to extract data across many platforms, create a productive strategy with improved decision making to help plan the future and gets results.
 </p>
   <a href="https://api.badgr.io/public/assertions/ENwqKApTRdK6jMywt5kAPQ?identity__email=dmsalisbury1141%40gmail.com">
-         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+         <img alt="UCF" src="https://github.com/dsalisbury1141/dsalisbury1141/blob/main/Images/ucfbadgr.PNG"
          width=150" height="70">
       </a>
 <p>- 📫 <strong>Email:</strong> <a href="#">dmsalisbury1141@gmail.com</a></p>
