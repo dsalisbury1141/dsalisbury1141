@@ -2,7 +2,7 @@
 
 
 
-<p>- 🔭 I’m currently working on... <strong>Working my employer competitive status</strong></p>
+<p>- 🔭 I’m currently working on... <strong>Employer competitive status</strong></p>
 <p>- 🌱 I’m currently learning ... <strong>Diving deeper into coding, learning never STOPS!</strong> </p>
 <p>- 👯 I’m looking to collaborate on ... <strong> Coding project</strong> </p>
 <p>- ⚡ Fun fact: ... <strong> Creativity is the seed that continues to grow as you code</strong></p>
