@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-
+<img img align="right" src="https://github.com/dsalisbury1141/dsalisbury1141/blob/main/avatar.jpg" width="250" alt="current photo">
 
 <p>- 🔭 I’m currently working on... <strong>Employer competitive status</strong></p>
 <p>- 🌱 I’m currently learning ... <strong>Diving deeper into coding, learning never STOPS!</strong> </p>
@@ -13,7 +12,6 @@
   <meta charset="UTF-8">
 </head>
 <body>
-<img img align="right" src="https://github.com/dsalisbury1141/dsalisbury1141/blob/main/avatar.jpg" width="250" alt="current photo">
 
   <img align="left|right|middle|top|bottom">
 
