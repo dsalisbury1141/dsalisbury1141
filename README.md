@@ -24,31 +24,7 @@
 <p>- ⚡ <strong>Github:</strong> <a href="#">https://github.com/dsalisbury1141</a></p>
 <p>- ✔  <strong>Resume:</strong> <a href="https://docs.google.com/document/d/1hDEv7Sws4b3dcoS3UGpy_E8QpyB3bXhqiMDtimcnUOE/edit?usp=sharing">Work History and Experience</a></p>
   <head>
-  {
-  "type": "Assertion",
-  "id": "https://api.badgr.io/public/assertions/ENwqKApTRdK6jMywt5kAPQ",
-  "@context": "https://w3id.org/openbadges/v2",
-  "recipient": {
-    "type": "email",
-    "salt": "C83rTHWE98C0EM2W",
-    "hashed": true,
-    "identity": "sha256$0eebf609688878a04369811d69acbf1b784d4d58f275f7258d596c78ed228a15"
-  },
-  "badge": "https://api.badgr.io/public/badges/oyeZlkcJQCmVODjzgyILWw",
-  "issuedOn": "2020-11-17T05:00:00Z",
-  "image": {
-    "id": "https://media.badgr.com/uploads/badges/assertion-ENwqKApTRdK6jMywt5kAPQ.png"
-  },
-  "revoked": false,
-  "extensions:recipientProfile": {
-    "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
-    "type": [
-      "Extension",
-      "extensions:RecipientProfile"
-    ],
-    "name": "Dawn Salisbury"
-  }
-}
+  
    </head>
    
 <h2>Technical Skills</h2>
