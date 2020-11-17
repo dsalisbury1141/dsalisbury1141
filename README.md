@@ -21,7 +21,9 @@
       </a>
                                                                                                                                                                                 <a target="_blank"href="href="https://api.badgr.io/public/assertions/ENwqKApTRdK6jMywt5kAPQ?identity__email=dmsalisbury1141%40gmail.com">UCF Badgr details                        
 </a>
-<b>    
+<b>  
+  
+  
   </b>
 <p>- 📫 <strong>Email:</strong> <a href="#">dmsalisbury1141@gmail.com</a></p>
 <p>- ⚡ <strong>Github:</strong> <a href="#">https://github.com/dsalisbury1141</a></p>
