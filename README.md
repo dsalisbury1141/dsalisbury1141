@@ -33,7 +33,7 @@
 <li>Databases: Postgres/ pgAdmin, MongoDB, Extract-Transform-Load (ETL)</li>
 <li>Programming: Python3, NumPy, Pandas, Matplotlib, API interactions, JavaScript, D3.js, VBA, HTML, CSS, Plotly, Geomapping, Machine Learning, Big Data</li>
 <li>Tools: VS Code, JupyterLab, Anaconda, Git Bash, GitHub, Tableau, Jira, Microsoft Project, Visio, Excel, AI, web scraping, Hadoop</li>
-<li><strong>Portfolio:</strong> <a href="https://github.com/dsalisbury1141?tab=repositories">of GitHub repositories</a></p> </li>
+<li><strong>Portfolio:</strong> <a href="https://github.com/dsalisbury1141?tab=repositories">Visit my GitHub repositories</a></p> </li>
 
 <h2> Recent Projects 2020</h2>
 
