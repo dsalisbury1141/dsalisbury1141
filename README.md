@@ -56,15 +56,10 @@ https://dsalisbury1141.github.io/GeoMapping-Earthquakes/
 
 <h3>ETL-Project</h3> 
  http://myprojectrepo.com/				
- <li>This project was based on the high occurrences of earthquakes in Japan and Turkey,</li>
- <li>Tools and techniques: ETL using API, JupyterLab, Python3, with Pandas, SQLite, remote deployment</li>
 
 <h3>The Avocado Project</h3> 
  https://github.com/dsalisbury1141/The-Avocado-Project
-  <li>This project based on the import-export and the consumption of avocado in the US</li>
-  <li>Tools and techniques:ETL csv, Python JupyterLab, Pandas, NumPy, Matplotlib for visualizations</h5> 
-
-
+ 
   <table>
      
    
