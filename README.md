@@ -43,7 +43,7 @@ https://dsalisbury1141.github.io/Predicting-Loan-Eligibility-Machine-Learning
 <li>Tools and techniques:Python Pandas, Matplotlib/NumPy/Seaborne, HTML/CSS/Bootstap, JavaScrip/D3.js, Machine learning using SKLearn, JupyterLab/VSCode</li>
 <li> This project will be improved to also showcase the use of actual loan preapprover with machine learning and the predict model that was created for this project rather than a simulation. Updates soon to follow</li>
 
-<h3>GeoMapping Eathquakes</h3>
+<h3>GeoMapping Earthquakes</h3>
 https://dsalisbury1141.github.io/GeoMapping-Earthquakes/
 <li>This project showing an interactive map for earthquakes up to 5+ magnitudes</li>
 <li>Tools and techniques: API, JavaScript, D3.JSON, HTML/CSS, VSCode, Leaflet, github deployment</li>
