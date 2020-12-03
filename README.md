@@ -32,7 +32,7 @@
 <h2>Technical Skills</h2>
 <li>Databases: Postgres/ pgAdmin, MongoDB, Extract-Transform-Load (ETL)</li>
 <li>Programming: Python3, NumPy, Pandas, Matplotlib, API interactions, JavaScript, D3.js, VBA, HTML, CSS, Plotly, Geomapping, Machine Learning, Big Data</li>
-<li>Tools: VS Code, JupyterLab, Anaconda, Git Bash, GitHub, Tableau, Jira, Microsoft Project, Visio, Excel, AI, web scraping, Hadoop</li>
+<li>Tools: VS Code, JupyterLab, Anaconda, Git Bash, GitHub, Tableau, Jira, Microsoft Project, Visio, Excel, SKLearn, web scraping, Google CoLab, AWS cloud, Hadoop</li>
 
 <h2> Recent Projects 2020</h2>
 
