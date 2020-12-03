@@ -49,7 +49,7 @@ https://dsalisbury1141.github.io/GeoMapping-Earthquakes/
 <li>Tools and techniques: API, JavaScript, D3.JSON, HTML/CSS, VSCode, Leaflet, github deployment</li>
     
  <h3>Biodiversity Dashboard</h3> 
- https://dsalisbury1141.github.io/Belly-Button-Biodiversity/</li>
+ https://dsalisbury1141.github.io/Biodiversity-Dashboard/</li>
  <li>This project was based on Belly Button Biodiversity, using an interactive dashboard to show results</li>
  <li>Tools and techniques: D3.js, JavaScript, Plotly, HTML, bootstrap  </li>
 
