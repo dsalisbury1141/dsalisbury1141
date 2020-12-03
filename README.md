@@ -36,7 +36,7 @@
 
 <h2> Recent Projects 2020</h2>
 
-<h3>HappHomeMortgage Company</h3>
+<h3>happyHomeMortgage Company</h3>
 
 https://dsalisbury1141.github.io/Predicting-Loan-Eligibility-Machine-Learning
 <li>This project based around machine learning, building a simulation for how machine learning can be used in the real world</li>
