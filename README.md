@@ -15,17 +15,17 @@
   <img align="left|right|middle|top|bottom">
 
   <p>Accomplished technology services leader with extensive experience in both technology and financial operations, driven by the love of research and data analytics, modeling, forecasting data, creating visualizations used to develop, and improve technology tools. Recognized as proactive, resourceful, and persistent problem-solver. Excellent communicator with effective client relationship building skills, driving results, meeting business objectives and improving client satisfaction. Graduate of Univerity Central Florida earning a certificate in Data Analytics & Web visualizations, learning many new tools for data analytics to extract data across many platforms, create a productive strategy with improved decision making to help plan the future and gets results.
-</p>
+</p> 
+<p> My Recent Certifications
+  </p>
   <a target="_blank" href="https://api.badgr.io/public/assertions/ENwqKApTRdK6jMywt5kAPQ?identity__email=dmsalisbury1141%40gmail.com">
          <img alt="UCF" src="https://github.com/dsalisbury1141/dsalisbury1141/blob/main/Images/ucfbadgr.PNG"width=120" height="120">
       </a>
-<a target="_blank"href="https://api.badgr.io/public/assertions/ENwqKApTRdK6jMywt5kAPQ?identity__email=dmsalisbury1141%40gmail.com">UCF Badge details                      
-</a>
+
  <a target="_blank" href="https://www.youracclaim.com/earner/earned/badge/fbde78aa-2ddc-4fa9-881b-5616da71c965">
          <img alt="CAPM" src="https://github.com/dsalisbury1141/dsalisbury1141/blob/main/Images/CAPM%20Badge.PNG"width=120" height="120">
       </a>
- <a target="_blank"href="https://www.youracclaim.com/badges/fbde78aa-2ddc-4fa9-881b-5616da71c965/public_url">CAPM Certification Details
-                                                                                                            </a>
+ 
 <p>      </p>
 <p>- 📫 <strong>Email:</strong> <a href="#">dmsalisbury1141@gmail.com</a></p>
 <p>- ✔  <strong>Resume:</strong> <a href="https://docs.google.com/document/d/1aJTTWxcg6rMABY3WO4-vOEM1w-L3SgoHiLfrhrWdXx4/edit?usp=sharing">Work History and Experience</a></p>
