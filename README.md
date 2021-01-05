@@ -21,6 +21,8 @@
       </a>
 <a target="_blank"href="https://api.badgr.io/public/assertions/ENwqKApTRdK6jMywt5kAPQ?identity__email=dmsalisbury1141%40gmail.com">UCF Badge details                      
 </a>
+ <a target="_blank"href="https://www.youracclaim.com/badges/fbde78aa-2ddc-4fa9-881b-5616da71c965/public_url">CAPM Certification Details
+                                                                                                            </a>
 <p>      </p>
 <p>- 📫 <strong>Email:</strong> <a href="#">dmsalisbury1141@gmail.com</a></p>
 <p>- ✔  <strong>Resume:</strong> <a href="https://docs.google.com/document/d/1aJTTWxcg6rMABY3WO4-vOEM1w-L3SgoHiLfrhrWdXx4/edit?usp=sharing">Work History and Experience</a></p>
