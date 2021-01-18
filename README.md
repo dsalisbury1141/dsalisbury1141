@@ -1,7 +1,7 @@
 ### Hi there 👋   <img img align="right" src="https://github.com/dsalisbury1141/dsalisbury1141/blob/main/avatar.jpg" width="250" alt="current photo">
 
-<p>- 🔭 I’m currently working on... <strong>Employer competitive status</strong></p>
-<p>- 🌱 I’m currently learning ... <strong>Diving deeper into coding, learning never STOPS!</strong> </p>
+<p>- 🔭 I’m currently ... <strong>Seeking employment opportunities</strong></p>
+<p>- 🌱 I’m currently learning ... <strong>Learning new languages Java, C++, C#, learning never STOPS!</strong> </p>
 <p>- 👯 I’m looking to collaborate on ... <strong> Coding projects</strong> </p>
 <p>- ⚡ Fun fact: ... <strong> Creativity is the seed that continues to grow as you code</strong></p>
 
