@@ -14,7 +14,7 @@
 
   <img align="left|right|middle|top|bottom">
 
-  <p>Accomplished technology services leader with extensive experience in both technology and financial operations, driven by the love of research and data analytics, modeling, forecasting data, creating visualizations used to develop, and improve technology tools. Recognized as proactive, resourceful, and persistent problem-solver. Excellent communicator with effective client relationship building skills, driving results, meeting business objectives and improving client satisfaction. Graduate of Univerity Central Florida earning a certificate in Data Analytics & Web visualizations, jumping deeper into data analytics to extract data across many platforms, create a productive strategy with improved decision making to help plan the future and gets results.
+  <p>Accomplished technology services leader with extensive experience in both technology and financial operations, driven by the love of research and data analytics, modeling, forecasting data, creating visualizations used to develop, and improve technology tools. Recognized as proactive, resourceful, and persistent problem-solver. Excellent communicator with effective client relationship building skills, driving results, meeting business objectives and improving client satisfaction. Recently earning a certificate in Data Analytics & Web visualizations from the University of Central Florida, jumping deeper into data analytics to extract data across many platforms, create a productive strategy with improved decision making to help plan the future and gets results.
 </p> 
 <p>👇 View My Recent Certifications 👇 😎
   </p>
